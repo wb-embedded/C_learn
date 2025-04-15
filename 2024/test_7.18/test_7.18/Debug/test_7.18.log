@@ -1,0 +1,6 @@
+﻿  test.c
+E:\code\2024\test_7.18\test.c(341,2): warning C4013: “strcpy”未定义；假设外部返回 int
+E:\code\2024\test_7.18\test.c(342,13): warning C4013: “strtok”未定义；假设外部返回 int
+E:\code\2024\test_7.18\test.c(342,11): warning C4047: “=”:“char *”与“int”的间接级别不同
+E:\code\2024\test_7.18\test.c(342,48): warning C4047: “=”:“char *”与“int”的间接级别不同
+  test_7.18.vcxproj -> E:\code\2024\test_7.18\Debug\test_7.18.exe

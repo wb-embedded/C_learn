@@ -1,0 +1,4 @@
+﻿  directory.c
+E:\code\2024\directory_plus\directory.c(249,2): warning C4098: “CmpByName”:“void”函数返回值
+E:\code\2024\directory_plus\directory.c(261,46): warning C4133: “函数”: 从“void (__cdecl *)(const void *,const void *)”到“_CoreCrtNonSecureSearchSortCompareFunction”的类型不兼容
+  directory_plus.vcxproj -> E:\code\2024\directory_plus\x64\Debug\directory_plus.exe

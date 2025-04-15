@@ -1,0 +1,7 @@
+﻿  test.c
+E:\code\2024\test_7.2\test.c(114,11): error C2057: 应输入常量表达式
+E:\code\2024\test_7.2\test.c(114,11): error C2466: 不能分配常量大小为 0 的数组
+E:\code\2024\test_7.2\test.c(114,6): error C2133: “arr1”: 未知的大小
+E:\code\2024\test_7.2\test.c(115,11): error C2057: 应输入常量表达式
+E:\code\2024\test_7.2\test.c(115,11): error C2466: 不能分配常量大小为 0 的数组
+E:\code\2024\test_7.2\test.c(115,6): error C2133: “arr2”: 未知的大小

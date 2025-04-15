@@ -1,0 +1,6 @@
+﻿  hanoi.c
+  move.c
+  test.c
+  正在生成代码...
+E:\code\2024\game2_hanoi\hanoi.c(5,3): warning C4013: “move”未定义；假设外部返回 int
+  game2_hanoi.vcxproj -> E:\code\2024\game2_hanoi\x64\Debug\game2_hanoi.exe

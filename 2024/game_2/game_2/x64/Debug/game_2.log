@@ -1,0 +1,6 @@
+﻿  game.c
+E:\code\2024\game_2\game.c(11,21): warning C4028: 形参 1 与声明不同
+E:\code\2024\game_2\game.c(24,24): warning C4028: 形参 1 与声明不同
+E:\code\2024\game_2\game.c(85,18): warning C4013: “get_mine_count”未定义；假设外部返回 int
+E:\code\2024\game_2\game.c(127,26): warning C4020: “SetMine”: 实参太多
+  game_2.vcxproj -> E:\code\2024\game_2\x64\Debug\game_2.exe
